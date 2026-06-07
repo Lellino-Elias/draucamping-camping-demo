@@ -25,7 +25,7 @@ export const draucamping: CampsiteConfig = {
   claim: "Campingurlaub am Ufer der Drau – im Herzen von Bergen und Seen",
   claimEmphasis: "im Herzen von Bergen und Seen",
   intro:
-    "Unser familienfreundlicher Campingplatz liegt zentral und doch ruhig direkt am Ufer der Drau in Sachsenburg – mit 80 XL-Stellplätzen, 11 Mobilhomes und 4 Wood Cubes, mitten in Kärntens schönster Natur zwischen Drautal, Bergen und Seen.",
+    "Unser familienfreundlicher Campingplatz liegt zentral und doch ruhig direkt am Ufer der Drau in Sachsenburg – mit großzügigen XL-Stellplätzen, 11 Mobilhomes und 4 Wood Cubes, mitten in Kärntens schönster Natur zwischen Drautal, Bergen und Seen.",
 
   statement: {
     text: "Unser Campingplatz ist die Wohlfühloase unter den Campingplätzen.",
@@ -54,7 +54,7 @@ export const draucamping: CampsiteConfig = {
   ],
 
   usps: [
-    "80 XL-Stellplätze am Ufer der Drau",
+    "Großzügige XL-Stellplätze am Ufer der Drau",
     "Strom, SAT-TV & WLAN inklusive",
     "Direkt am Drauradweg",
     "Erlebnis-Schwimmbad gratis (ca. 10 Gehmin.)",
@@ -88,10 +88,10 @@ export const draucamping: CampsiteConfig = {
   camping: {
     heading: "Camping am Ufer der Drau",
     intro:
-      "80 attraktive XL-Stellplätze auf gepflegtem Gelände direkt an der Drau – alle mit Strom- und TV-Satellitenanschluss sowie freiem WLAN. Campingurlaub im Einklang mit der Natur, wie er sein soll.",
+      "Großzügige, attraktive XL-Stellplätze auf gepflegtem Gelände direkt an der Drau – alle mit Strom- und TV-Satellitenanschluss sowie freiem WLAN. Campingurlaub im Einklang mit der Natur, wie er sein soll.",
     features: [
       {
-        title: "80 XL-Stellplätze",
+        title: "XL-Stellplätze direkt an der Drau",
         text:
           "Großzügige, ebene Stellplätze auf grünem Wiesengelände, umgeben von Bergen – Platz und Ruhe für Wohnmobil, Wohnwagen und Zelt.",
         image: { src: `${IMG}/stellplaetze-wiese.webp`, alt: "Wiesen-Stellplätze mit Wohnwagen am Draucamping vor Bergen" },
@@ -220,7 +220,7 @@ export const draucamping: CampsiteConfig = {
         title: "Ausflüge in die Region",
         text:
           "Heiligenblut mit dem Großglockner, die Bergwelt des Maltatals und die Nationalparks bieten sich für Familienausflüge an – Italien, Slowenien und die Dolomiten sind als Tagesausflug erreichbar.",
-        image: { src: `${IMG}/ausfluege-ort.webp`, alt: "Historischer Ortskern von Sachsenburg mit Burgruine" },
+        image: { src: `${IMG}/ausfluege-ort.webp`, alt: "Historischer Marktplatz von Sachsenburg im Drautal" },
       },
     ],
   },
