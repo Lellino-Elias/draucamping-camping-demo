@@ -288,7 +288,7 @@ export const draucamping: CampsiteConfig = {
     telHref: "tel:+436801504656",
     mail: "marketing@draucamping.at",
     adresse: "Ringmauergasse 8 · 9751 Sachsenburg · Kärnten",
-    coords: { lat: 46.8286716, lng: 13.3475407 },
+    coords: { lat: 46.829537, lng: 13.347499 },
   },
 
   languages: ["DE"],
