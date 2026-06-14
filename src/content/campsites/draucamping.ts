@@ -36,19 +36,19 @@ export const draucamping: CampsiteConfig = {
     {
       title: "Direkt am Ufer der Drau",
       text:
-        "Zentral und doch ganz ruhig: Der Platz liegt unmittelbar am größten Fluss Kärntens – mit eigener Bootslandebucht und direkter Ein- und Ausstiegsmöglichkeit hinter dem Gelände.",
+        "Der Platz liegt unmittelbar am größten Fluss Kärntens – mit eigener Bootslandebucht und direktem Ein- und Ausstieg zur Drau.",
       image: { src: `${IMG}/drau-fluss.webp`, alt: "Die Drau bei Sachsenburg mit Paddlern am Ufer" },
     },
     {
       title: "Direkt am Drauradweg",
       text:
-        "Sachsenburg liegt mitten im Kärntner Radwege-Netz: Von hier starten einige der schönsten Radtouren Österreichs – über den Drauradweg nach Villach oder Lienz.",
+        "Sachsenburg liegt mitten im Kärntner Radwege-Netz – idealer Startpunkt für die schönsten Radtouren am Drauradweg.",
       image: { src: `${IMG}/drauradweg-familie.webp`, alt: "Familie beim Radfahren am Drauradweg" },
     },
     {
       title: "Berge & Seen ringsum",
       text:
-        "Eingebettet von Kreuzeckgruppe und Gailtaler Alpen, mit Millstätter See und Weißensee in kurzer Fahrt – ideales Tor zum Oberen Drautal für Genießer, Aktive und Familien.",
+        "Millstätter See und Weißensee in kurzer Fahrt, Kreuzeckgruppe und Gailtaler Alpen direkt vor der Tür.",
       image: { src: `${IMG}/drautal-panorama.webp`, alt: "Blick über Sachsenburg und das Drautal mit Bergen" },
     },
   ],
@@ -105,7 +105,7 @@ export const draucamping: CampsiteConfig = {
       {
         title: "ADAC-ausgezeichnete Sanitäranlagen",
         text:
-          "Moderne, vom ADAC besonders ausgezeichnete Sanitäreinrichtungen – zusätzlich mit Kleinkinderbadewanne und Wickeltischen für Familien.",
+          "Vom ADAC besonders ausgezeichnete Sanitäreinrichtungen – mit Kleinkinderbadewanne und Wickeltischen für Familien.",
         image: { src: `${IMG}/sanitaeranlagen.webp`, alt: "Helle Waschräume mit Spiegel in den ADAC-ausgezeichneten Sanitäranlagen des Draucamping" },
       },
       {
@@ -123,7 +123,7 @@ export const draucamping: CampsiteConfig = {
       {
         title: "Zentral & barrierefrei",
         text:
-          "Geschäfte, Gasthäuser, Bankomat und Bahnhof sind zu Fuß erreichbar. Stufenlose Eingänge, breite Gänge und spezielle Sanitärräume ermöglichen auch einen barrierefreien Aufenthalt.",
+          "Geschäfte, Gasthäuser, Bankomat und Bahnhof sind zu Fuß erreichbar – stufenlose Eingänge für barrierefreien Aufenthalt.",
         image: { src: `${IMG}/empfang-gebaeude.webp`, alt: "Empfangsgebäude des Draucamping Sachsenburg" },
       },
     ],
@@ -138,7 +138,7 @@ export const draucamping: CampsiteConfig = {
         name: "Mobilhome",
         kind: "für bis zu 4 Erw. + 2 Kinder · 24,20 m²",
         text:
-          "Zwei getrennte Schlafzimmer (Doppelbett 160×200 und zwei Einzelbetten) plus zusätzliche Schlafbank im Wohnraum, voll ausgestattete Küche, Bad mit Dusche/WC, SAT-TV, Heizung und Klimaanlage – dazu eine halbüberdachte Holzterrasse.",
+          "Zwei getrennte Schlafzimmer, Schlafbank im Wohnraum, voll ausgestattete Küche, Bad, SAT-TV, Klimaanlage und Holzterrasse.",
         image: { src: `${IMG}/mobilhome-aussen.webp`, alt: "Mobilhome mit Holzterrasse am Draucamping Sachsenburg" },
         priceFrom: 105,
         features: ["max. 4 Erw. + 2 Kinder", "24,20 m² + 9 m² Terrasse", "Küche · Bad · Klimaanlage"],
@@ -147,7 +147,7 @@ export const draucamping: CampsiteConfig = {
         name: "Wood Cube",
         kind: "Holz-Chalet · seit 2022",
         text:
-          "Gemütliche Holzunterkunft, 2022 aus überwiegend regionalem Holz errichtet – mit eigener Holzterrasse, Schlaf- und Wohnbereich und Blick ins Grüne. Es gelten alle Leistungen des Campingplatzes.",
+          "Gemütliche Holzunterkunft aus regionalem Holz (2022) – mit Holzterrasse, Schlaf- und Wohnbereich und Blick ins Grüne.",
         image: { src: `${IMG}/woodcube-aussen.webp`, alt: "Wood Cubes aus Holz mit Terrassen am Draucamping" },
         priceFrom: 120,
         features: ["aus regionalem Holz", "eigene Holzterrasse", "errichtet 2022"],
@@ -189,37 +189,37 @@ export const draucamping: CampsiteConfig = {
       {
         title: "Radfahren am Drauradweg",
         text:
-          "Direkt am Drauradweg gelegen – mit Touren nach Villach und Lienz, Anschluss an Glocknerradweg R8 und Maltatalradweg R9, E-Bike-Ladestation, Rad-Service und 1× wöchentlich geführter Radtour.",
+          "Direkt am Drauradweg gelegen – Touren nach Villach und Lienz, E-Bike-Ladestation, Rad-Service und geführte Radtouren.",
         image: { src: `${IMG}/radfahren-drau.webp`, alt: "Radfahrer an der Drau bei Sachsenburg" },
       },
       {
         title: "Paddeln auf der Drau",
         text:
-          "Der Drau-Paddelweg bietet auf 11 Etappen über 210 km Paddelgenuss. Direkt hinter dem Platz liegt der Ein- und Ausstieg – Kanu, Kajak und SUP sowie Kurse über das Paddel-Center.",
+          "Der Drau-Paddelweg führt über 11 Etappen und 210 km – Ein- und Ausstieg direkt hinter dem Platz, Kanu, Kajak und SUP verfügbar.",
         image: { src: `${IMG}/paddeln-drau.webp`, alt: "Kajakfahrer auf der Drau bei Sachsenburg" },
       },
       {
         title: "Wandern & Bergerlebnis",
         text:
-          "Sportberg Goldeck, Großglockner, Malta Hochalmstraße, Mölltaler Gletscher, Nockalmstraße sowie die Nationalparks Hohe Tauern und Nockberge – dazu 1× wöchentlich eine geführte Wanderung.",
+          "Goldeck, Großglockner, Nationalparks Hohe Tauern und Nockberge – dazu 1× wöchentlich eine geführte Wanderung.",
         image: { src: `${IMG}/wandern-bergblick.webp`, alt: "Bergblick über Sachsenburg im Drautal" },
       },
       {
         title: "Erlebnis-Schwimmbad",
         text:
-          "Das beheizte Erlebnis-Schwimmbad liegt nur rund 10 Gehminuten entfernt und ist für unsere Campinggäste kostenlos – Badespaß mit Bergpanorama.",
+          "Das beheizte Erlebnis-Schwimmbad ist nur rund 10 Gehminuten entfernt und für Campinggäste kostenlos.",
         image: { src: `${IMG}/erlebnisbad.webp`, alt: "Beheiztes Erlebnis-Schwimmbad bei Sachsenburg mit Bergen" },
       },
       {
         title: "Kultur & Kulinarik",
         text:
-          "Gasthäuser, Bäckerei, Geschäfte und Bahnhof liegen in unmittelbarer Nähe. Die Shopping- und Komödienstadt Spittal an der Drau ist nur ca. 15 Autominuten entfernt.",
+          "Gasthäuser, Bäckerei, Geschäfte und Bahnhof liegen zu Fuß erreichbar – Spittal an der Drau ist ca. 15 Autominuten entfernt.",
         image: { src: `${IMG}/kulinarik-ort.webp`, alt: "Gemütliches Gasthaus im Ortskern von Sachsenburg am Abend" },
       },
       {
         title: "Ausflüge in die Region",
         text:
-          "Heiligenblut mit dem Großglockner, die Bergwelt des Maltatals und die Nationalparks bieten sich für Familienausflüge an – Italien, Slowenien und die Dolomiten sind als Tagesausflug erreichbar.",
+          "Heiligenblut, Maltatal und die Nationalparks laden zu Familienausflügen ein – Dolomiten, Italien und Slowenien als Tagesausflug.",
         image: { src: `${IMG}/ausfluege-ort.webp`, alt: "Historischer Marktplatz von Sachsenburg im Drautal" },
       },
     ],
