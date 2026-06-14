@@ -100,13 +100,13 @@ export const draucamping: CampsiteConfig = {
         title: "Strom, SAT-TV & WLAN inklusive",
         text:
           "Jeder Stellplatz verfügt über Strom- und TV-Satellitenanschluss sowie freien WLAN-Zugang – alles im Preis enthalten.",
-        image: { src: `${IMG}/stellplaetze-familie.webp`, alt: "Familiäres Stellplatz-Gelände am Draucamping" },
+        image: { src: `${IMG}/stellplaetze-familie.webp`, alt: "Stellplätze mit Wohnwagen am Draucamping Sachsenburg, Blick vom Rezeptionsgebäude" },
       },
       {
         title: "ADAC-ausgezeichnete Sanitäranlagen",
         text:
           "Moderne, vom ADAC besonders ausgezeichnete Sanitäreinrichtungen – zusätzlich mit Kleinkinderbadewanne und Wickeltischen für Familien.",
-        image: { src: `${IMG}/sanitaeranlagen.webp`, alt: "Moderne Sanitäranlagen am Draucamping Sachsenburg" },
+        image: { src: `${IMG}/sanitaeranlagen.webp`, alt: "Helle Waschräume mit Spiegel in den ADAC-ausgezeichneten Sanitäranlagen des Draucamping" },
       },
       {
         title: "Aufenthaltsraum mit Leseecke",
